@@ -1,7 +1,7 @@
-# Read/Write UserMode Process ViA Ring0 [![EXPLOiT]
-(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]<h1 align="center">
+# Read And Write User Mode Process Via Ring0 [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+> An Awesome Code To Understand Memory Exploitation Using MemMan Class And Hack Games.
  
- ###### This project uses a kernel mode driver in co-operation with a user mode program to establish a method of reading / writing virtual memory from a regular win32 program without having to use regular WinAPI Functions. This happens by using a driver to execute the reading / writing of the memory itself from a lower level. This means the user mode program does not have to open any handles to csgo or use ReadProcessMemory or WriteProcessMemory nor any functions that has to deal with process handles.
+###### This project uses a kernel mode driver in co-operation with a user mode program to establish a method of reading / writing virtual memory from a regular win32 program without having to use regular WinAPI Functions. This happens by using a driver to execute the reading / writing of the memory itself from a lower level. This means the user mode program does not have to open any handles to csgo or use ReadProcessMemory or WriteProcessMemory nor any functions that has to deal with process handles.
 
 <h1 align="center"> <br><a href="https://www.youtube.com/watch?v=1JWNrAk-Kx0"><img src="KernelMode.jpg" alt="Hack"></a></h1>
 
